@@ -1,0 +1,9 @@
+Qno4.What are the Benefits of Using meta tags?
+Ans : following are the benefits of using meta tag:-
+	*SEO:- Meta tags, such as the "description" and "keywords" tags, can help
+	      improve a webpage's visibility on search engine result pages (SERPs).
+	*Viewport control:-The viewport meta tag is crucial for responsive web design.
+	*Social Media Sharing:- Meta tags like the Open Graph Protocol tags allow developers to control how web
+         pages are displayed when shared on social media platforms like Facebook, Twitter, and LinkedIn.
+	*Character Encoding and Language:- The meta tag specifying the character encoding (e.g., .TF-8) ensures
+	   that the browser interprets the text correctly, especially when dealing with special characters or multilingual content.
